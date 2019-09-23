@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83049214880",
+    "firebase_url": "https://ulanganfirebase.firebaseio.com",
+    "project_id": "ulanganfirebase",
+    "storage_bucket": "ulanganfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83049214880:android:2279ce0a8e8499bac6eac5",
+        "android_client_info": {
+          "package_name": "com.example.ulanganfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83049214880-ekmqkl3s8fn69slmrp3hmtmhreis5cmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ulanganfirebase",
+            "certificate_hash": "d336f309bc3b66b64936b9fbed00a6942dbf8cb7"
+          }
+        },
+        {
+          "client_id": "83049214880-ff7r0b5qj865sk6gvs4as9qtkse47fkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtF-IkG_ki7bh6GRFW3F0E7G5W1cPGQuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83049214880-ff7r0b5qj865sk6gvs4as9qtkse47fkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
